@@ -1,0 +1,36 @@
+Business Source License 1.1
+
+License text copyright (c) 2017 MariaDB Corporation Ab, All Rights Reserved.
+"Business Source License" is a trademark of MariaDB Corporation Ab.
+
+Parameters
+
+Licensor:             G | MALAVE Inc (GLOFICA)
+Licensed Work:        Cortex IA — Sovereign AI Kernel
+                      The Licensed Work is (c) 2026 G | MALAVE Inc
+Additional Use Grant: You may make use of the Licensed Work, provided that
+                      you may not use the Licensed Work for a Commercial
+                      DLT/Blockchain Production Deployment without a
+                      separate commercial license from the Licensor.
+
+                      A "Commercial DLT/Blockchain Production Deployment"
+                      is any use of the Licensed Work that provides the
+                      same or substantially similar functionality as the
+                      Licensed Work to third parties as part of a
+                      distributed ledger or blockchain system.
+
+Change Date:          2028-03-30
+
+Change License:       Apache License, Version 2.0
+
+Notice
+
+The Business Source License (this document, or the "License") is not an Open
+Source license. However, the Licensed Work will eventually be made available
+under an Open Source License, as stated in this License.
+
+For more information on the use of this License, please refer to
+https://mariadb.com/bsl11/
+
+Full text of the Business Source License 1.1:
+https://mariadb.com/bsl11/
