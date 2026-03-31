@@ -134,4 +134,4 @@ Business Source License 1.1 — See [LICENSE](LICENSE) for details.
 
 ---
 
-**Part of [GLOFICA](https://glofica.io) — Global Financial Operating System**
+**Part of [GLOFICA](https://glofica.com) — Global Financial Operating System**
